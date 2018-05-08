@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "walk_input",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "walk_input",
+    "description": "The description of the application"
+  }
+}
